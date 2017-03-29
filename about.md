@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Living in Singapore. 
+This Blog serve to provide information 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to sleep.....
 
 ### Contact me
 
